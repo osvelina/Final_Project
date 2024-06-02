@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "603294206106",
+    "project_id": "final-camp",
+    "storage_bucket": "final-camp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603294206106:android:38ac8b68dd3d761449b723",
+        "android_client_info": {
+          "package_name": "com.example.final_camp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLKGFG8Ue2oK9kv4m8OHFk3d15VGY5Mf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
