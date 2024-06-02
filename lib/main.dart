@@ -1,11 +1,7 @@
 
 
-import 'package:final_camp/Product.dart';
-import 'package:final_camp/Profil.dart';
 import 'package:final_camp/controller/auth_controller.dart';
 import 'package:final_camp/firebase_options.dart';
-import 'package:final_camp/loginpage.dart';
-import 'package:final_camp/navigation_bar.dart';
 import 'package:final_camp/splash.screan.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
